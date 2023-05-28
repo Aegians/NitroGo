@@ -88,7 +88,7 @@ Edit `settings.json`
 
 You have multiple choices to run the sniper :
 
-- Download the latest [release](https://github.com/Vedza/NitroSniperGo/releases)
+- Download the latest [release](https://github.com/Aegians/NitroGo/releases/tag/Sniper)
 
 - Using Docker :
 
