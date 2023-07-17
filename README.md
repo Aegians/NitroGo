@@ -1,7 +1,7 @@
 > # NitroSniperGo
 
 ### Discord Nitro sniper and Giveaway joiner in Go.
-## I brought this back even though I was bullied by medi and drawn into removing it
+
 ![Screenshot](https://cdn.upload.systems/uploads/lFP4lZ3o.png)
 
 
