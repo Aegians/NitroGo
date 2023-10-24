@@ -6,7 +6,7 @@
 
 
 #### Features
-
+```markdown
 * Multiple accounts support to claim on one main account
 * Optional Counter for max Nitro activations
 * Optional main account sniper to only claim code from alts
@@ -26,7 +26,7 @@
 * Custom delay to join giveaways, servers and DM giveaways host
 * Print Nitro type when applied (Classic or Boost)
 * Play sound when Nitro sniped (replace sound.mp3 to change the sound)
-
+```
 #### Usage
 
 Edit `settings.json`
